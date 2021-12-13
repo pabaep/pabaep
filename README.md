@@ -6,7 +6,7 @@
   👋 Hi guys, I'm sewon ─ student of Duksung Women's University, <br>
   Department of Literature Information & Department of Computer Science 🏫</p>
 
-<p align="center">🌱 I’m currently learning android(java/kotlin) and little bit about Back-end stack(Node.js) 🌱</p>   
+<p align="center">🌱 I’m currently learning android(java/kotlin) and little bit about Back-end stack 🌱</p>   
 
 <br>
 
