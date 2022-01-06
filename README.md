@@ -20,8 +20,10 @@
 <h3 align="center">📫 How to reach me 📫</h3>
 <p align="center">
   <a href="mailto:sewon225@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  <a href="https://www.instagram.com/paabaep/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a></p>
+</p>
 
 <h3 align="center">📄 More about me 📄</h3>                                                                         <p align="center">
-  <a href="https://blush-pearl-7a4.notion.site/Hi-there-I-m-Sewon-Hwang-25de51f54fb04fb5bc3121033cc26139"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a></p>                                          
+  <a href="https://blush-pearl-7a4.notion.site/Hi-there-I-m-Sewon-Hwang-25de51f54fb04fb5bc3121033cc26139"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+  <a href="https://paabaep.tistory.com/"><img src="https://img.shields.io/badge/Tech Blog-9B9B9B?style=flat-square&logo=GitHub&logoColor=white"/></a>
+</p>                                          
 
