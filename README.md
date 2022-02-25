@@ -1,4 +1,5 @@
-<h1 align="center">Sewon Hwang ─ @pabaep</h3>
+![header](https://capsule-render.vercel.app/api?type=rect&text=About%20Me!&color=80adec&fontColor=ffffff&fontSize=50&animation=fadeIn)
+<h1 align="center">Sewon Hwang ─ @pabaep</h1>
 
 <br>
 
