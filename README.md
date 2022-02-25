@@ -29,7 +29,9 @@
   <a href="https://paabaep.tistory.com/"><img src="https://img.shields.io/badge/Tech Blog-9B9B9B?style=flat-square&logo=GitHub&logoColor=white"/></a>
 </p>    
 
-<h3 align="center"📈 git status 📊</h3><br>
+<br>
+
+<h3 align="center">📈 git status 📊</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pabaep&layout=compact&show_icons=true&theme=vue&hide_border=true" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabaep&layout=compact&theme=vue&hide_border=true" />
 </p>
