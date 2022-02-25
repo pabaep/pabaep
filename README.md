@@ -33,6 +33,10 @@
 
 <h3 align="center">📈 git status 📊</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pabaep&layout=compact&show_icons=true&theme=vue&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pabaep&layout=compact&show_icons=true&theme=vue&hide_border=true&include_all_commits=true&card_width=500" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabaep&layout=compact&theme=vue&hide_border=true" />
+  
+  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 </p>
+
+
